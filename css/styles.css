@@ -177,6 +177,16 @@ p {
     padding-bottom: 0;
 }
 
+#cta p {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+#cta img {
+    margin-top: 5%;
+    width: 15vw;
+}
+
 #cta .btn {
     margin: 1rem 2rem 2.5rem;
 }
