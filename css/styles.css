@@ -181,6 +181,10 @@ p {
     p {
         font-size: 1.5rem;
     }
+
+    #pricing img {
+        height: 30vh;
+    }
 }
 
 /* Footer */
@@ -206,7 +210,7 @@ p {
 
 #cta img {
     margin-top: 5%;
-    width: 10vw;
+    width: 20vh;
 }
 
 #cta .btn {
