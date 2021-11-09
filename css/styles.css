@@ -26,6 +26,9 @@ p {
     color: #8f8f8f;
 }
 
+.btn:hover {
+    background-color: #B29655;
+}
 
 /* Headings */
 .big-heading {
@@ -69,12 +72,15 @@ p {
 }
 
 .title-img {
-    width: 65%;
-    transform: rotate(19deg);
+    width: 59%;
+    transform: rotate(17deg);
     position: absolute;
     right: 25%
 }
 
+#title .container-fluid {
+    padding-bottom: 8%;
+}
 
 /* Features */
 .icon {
@@ -195,6 +201,7 @@ p {
 #cta p {
     color: #fff;
     font-size: 1.5rem;
+    font-weight: 700;
 }
 
 #cta img {
